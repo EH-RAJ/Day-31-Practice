@@ -1,0 +1,8 @@
+.navbar-brand img{
+    width: 40px;
+}
+/* Slider section */
+.slider-section{
+    background-image: url(./image/mbr-10.jpg);
+    padding: 200px 0;
+}
